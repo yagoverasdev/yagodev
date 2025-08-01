@@ -1,8 +1,7 @@
 # Olá, eu sou o Yago 👋
 
-🌱 Estudando Front-End e Design Gráfico  
-💻 Foco em HTML, CSS, JS, React e UI/UX  
-📚 Cursando diversos bootcamps e formações na Udemy  
+🌱 Estudando Desenvolvimento web e Cibersegurança 
+📚 Cursando diversos cursos e criando projetos pessoais 
 🚀 Aberto a novas oportunidades
 
 ### 📈 GitHub Stats
