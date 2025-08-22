@@ -7,12 +7,6 @@
 
 ---
 
-<!-- Imagem central -->
-<p align="center">
-  <img src="https://i.ibb.co/VHt9mPf/dev-night-pixelart.png" width="500"/>
-</p>
-
----
 
 <!-- Linguagens & Skills -->
 <h2 align="center">💻 Linguagens & Tecnologias</h2>
