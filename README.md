@@ -54,16 +54,6 @@
   <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
----
-
-<!-- Estatísticas -->
-<h2 align="center">📊 Estatísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 <!-- Contato -->
 <h2 align="center">📫 Onde me encontrar</h2>
